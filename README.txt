@@ -1,6 +1,9 @@
 Adam asmaca nasıl çalıştırılır?
 
+```
+asdf
 
+```
 C:../AdamAsmaca.exe 
 
 şeklinde çalıştırılır. Çalıştığında kelime rastgeledir ve can kelime'nin harf sayısının 2 katı kadardır.
