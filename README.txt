@@ -8,4 +8,6 @@ Ancak isteğe göre kullanıcı -c (can) ve -k (kelime) komutlarını kullanarak
 
 Örnek:
 
-```C:Users/user1/cods/AdamAsmaca.exe -c 10 -kelime Marmara```
+```
+C:Users/user1/cods/AdamAsmaca.exe -c 10 -kelime Marmara
+```
